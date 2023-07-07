@@ -1,0 +1,4 @@
+[package]
+description = Add MAC address to all logs.
+tags = log extend mac
+script_dir = scripts
